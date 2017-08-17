@@ -1,7 +1,8 @@
 -- ======================================
       -- Written By : Titch2000
-        -- Paid By : NoamKvet
-            -- Free To Use
+	  -- Requested by NoamKvet
+      -- Free to use and edit but 
+	  -- please give credit
 -- ======================================
 
 local policeloadout = {
